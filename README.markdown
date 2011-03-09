@@ -2,4 +2,4 @@
 
 This is the first application for
 [*reVamp*]
-by [Phil Holden]
+by [Phil Holden](spacebwoy@gmail.com)
