@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  cid: 1
+  salutation: Mrs
+  forename: Joanne
+  surname: Dodds
+  address: 5 Wycollar Close, Accrington
+  postcode: BB5 2LG
+  email: joannedodds1@googlemail.com
+  mobile: 07515354576
+  phone: 01254388017
+
+two:
+  cid: 2
+  salutation: MyString
+  forename: MyString
+  surname: MyString
+  address: MyString
+  postcode: MyString
+  email: MyString
+  mobile: MyString
+  phone: MyString
